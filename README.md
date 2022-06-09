@@ -21,9 +21,9 @@ To run this application, you need to first clone the getting-started-with-the-an
 
 To do so, open the command prompt and run the below commands one after the other.
 
-git clone dialog-example
+git clone angular-example
 
-cd dialog-example
+cd angular-example
 
 # Installing
 
