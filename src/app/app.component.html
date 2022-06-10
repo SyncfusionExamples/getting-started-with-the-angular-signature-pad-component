@@ -1,0 +1,28 @@
+<div style="width: 75%;">
+  <div style="Width: 80%; padding-top: 20px;">
+    <span style="float: left;">
+        <b>Sign here</b>
+    </span>
+    <span style="float: right;">
+      <button ejs-button #clearbuttoncomponent [disabled]="true"
+      (click)="clearButtonClick()">Clear
+      </button>
+    </span>
+    <span style="float: right; padding-right: 20px;">
+      <button ejs-button #savebuttoncomponent cssClass="e-info" [disabled]="true"
+      (click)="saveButtonClick()">Save
+      </button>
+    </span>
+  </div>
+  <div style="padding-top: 50px;">
+    <canvas ejs-signature #signaturecomponent style="height: 80%; width: 80%;"
+
+    [maxStrokeWidth]="3" [minStrokeWidth]="0.6" [velocity]="0.9" backgroundColor="#FFCCCB"
+    
+    strokeColor="#253DA1" (change)="signaturePadChangeState()">
+    
+
+    </canvas>
+
+  </div>
+</div>
