@@ -2,6 +2,11 @@
 
 A quick start Angular project that shows how to add Angular Signature Pad component to the Angular App. This project also includes a code snippet to change the stroke width, color, and add a background color and image to the signature pad, and how to save and clear the signature.
 
+Examples: https://ej2.syncfusion.com/angular/demos/#/material/signature/default 
+
+Documentation: https://ej2.syncfusion.com/angular/documentation/signature/getting-started/ 
+
+
 # Project pre-requisites
 
 Make sure that you have the compatible versions of TypeScript and Angular in your machine before starting to work on this project.
