@@ -47,9 +47,9 @@ Draw the given text as a signature using different font families and font sizes.
 ## Related links
 [Learn More about Angular Signature ](https://www.syncfusion.com/angular-components/angular-signature?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/angular/confirm?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/products/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
 
 [Documentation](https://ej2.syncfusion.com/angular/documentation/signature/getting-started/?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
 
@@ -61,12 +61,12 @@ Draw the given text as a signature using different font families and font sizes.
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/material/signature/default?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
 
-[Knowledge base](https://www.syncfusion.com/kb/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
+[Knowledge base](https://support.syncfusion.com/kb/web/category/71?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
 
 
 ## About Syncfusion Angular UI Components
 
-Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples) library is the only suite that you will ever need to build an application since it contains over 65 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Signature, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples).
+Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Signature, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples).
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
