@@ -65,6 +65,8 @@ The Signature Pad component supports various [customization](https://ej2.syncfus
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/signature/default?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
 
+[Video Tutorials](https://www.syncfusion.com/tutorial-videos/angular/signature?utm_source=github&utm_medium=listing&utm_campaign=angular-splitter-github-samples)
+
 ## About Syncfusion Angular UI Components
 
 Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Signature, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples).
