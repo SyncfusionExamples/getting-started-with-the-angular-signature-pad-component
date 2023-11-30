@@ -32,21 +32,17 @@ Run ng serve command for a dev server. Navigate to http://localhost:4200/. The a
 
 ## Features and Benefits
 
+### Signature customization
+
+The Signature Pad component supports various [customization](https://ej2.syncfusion.com/angular/documentation/signature/customization?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples) options like background color, background image, stroke color, stroke width, save with background, undo, redo, clear, readonly, and disabled.
+
 ### Drawing
 
 [Draw](https://ej2.syncfusion.com/angular/documentation/signature/draw?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples) the given text as a signature using different font families and font sizes.
 
-### Saving
-
-Save the signature as an image to formats like PNG, JPEG, and SVG.
-
 ### Loading
 
 It supports to load a pre drawn signature to component either as base 64 or URL. It supports PNG, JPEG, and SVG image types.
-
-### Signature customization
-
-The Signature Pad component supports various [customization](https://ej2.syncfusion.com/angular/documentation/signature/customization?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples) options like background color, background image, stroke color, stroke width, save with background, undo, redo, clear, readonly, and disabled.
 
 ## Related links
 [Learn More about Angular Signature ](https://www.syncfusion.com/angular-components/angular-signature?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
