@@ -61,7 +61,7 @@ It supports to load a pre drawn signature to component either as base 64 or URL.
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/signature/default?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
 
-[Video Tutorials](https://www.syncfusion.com/tutorial-videos/angular/signature?utm_source=github&utm_medium=listing&utm_campaign=angular-splitter-github-samples)
+[Video Tutorials](https://www.syncfusion.com/tutorial-videos/angular/signature?utm_source=github&utm_medium=listing&utm_campaign=angular-signature-github-samples)
 
 ## About Syncfusion Angular UI Components
 
